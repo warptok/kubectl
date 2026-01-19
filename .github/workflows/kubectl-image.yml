@@ -13,7 +13,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ghcr.io/skyline-proxy/kubectl/kubectl
+  IMAGE_NAME: ghcr.io/warptok/kubectl
 
 jobs:
   build-and-push:
